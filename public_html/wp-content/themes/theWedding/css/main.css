@@ -87,8 +87,18 @@ h4 {
     color: #fff;
 }
 
-.cakes {
-    
+.cakeBox {
+    width:10%;
+    float: left;
+    margin-right: 5%;
+}
+
+.cakeBox:first-child {
+    margin-left: 7%;
+}
+
+.cakeBox:last-child {
+    margin-right: 0%;
 }
 
 .pink {
