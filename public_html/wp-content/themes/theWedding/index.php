@@ -26,25 +26,29 @@
                            </div>
                 <div class="col-md-2"></div>
               </div>
-         <div class="cakes container">
+         <div class="row pink">
+         <div class="cakes container ">
+             <h2 class="text-center">Cakes of our Lives</h2>
+             
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake1.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake11.png" class="img-responsive">
              </div>
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake2.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake22.png" class="img-responsive">
              </div>
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake3.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake33.png" class="img-responsive">
              </div>
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake4.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake44.png" class="img-responsive">
              </div>
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake5.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake55.png" class="img-responsive">
              </div>
              <div class="col-md-2">
-                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake6.jpeg" class="img-responsive">
+                 <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake66.png" class="img-responsive">
              </div>
-         </div>
+         </div><!--cakes-->
+         </div><!--row-->
       </div><!--container fluid-->
 <?php get_footer();?>

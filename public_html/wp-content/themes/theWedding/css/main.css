@@ -87,3 +87,25 @@ h4 {
     color: #fff;
 }
 
+.cakes {
+    
+}
+
+.pink {
+    height: 60%;
+    background-color: #f4d4d4;
+}
+
+.cakes h2 {
+    font-size: 150px;
+    font-family: 'Tangerine', cursive;
+    color: #fff;
+    border-bottom: 2px dotted gray;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.bottomBorder {
+    border-bottom: 2px dotted gray;
+}
+
