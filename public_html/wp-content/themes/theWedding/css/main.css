@@ -134,10 +134,50 @@ h4 {
     border-bottom: 2px dotted gray;
     margin-top: 5%;
     margin-bottom: 5%;
-    border-width: 50px;
+    border-width: 30px;
 }
 
 .bottomBorder {
     border-bottom: 2px dotted gray;
 }
+
+@media screen and (max-width: 980px){
+    .cakeBox p {
+        font-size: 25px;
+    }
+    
+    .cakes h2 {
+        font-size: 100px;
+        font-family: 'Tangerine', cursive;
+        margin-right: 0%;
+    }
+}
+
+
+@media screen and (max-width: 575px){
+    .cakeBox p {
+        font-size: 18px;
+    }
+    .cakes h2 {
+        font-size: 60px;
+        font-family: 'Tangerine', cursive;
+        margin-right: 0%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .cakeBox p {
+        font-size: 12px;
+    }
+    
+    .cakes h2 {
+        font-size: 40px;
+        font-family: 'Tangerine', cursive;
+        margin-right: 0%;
+    }
+}
+
+
+
+
 

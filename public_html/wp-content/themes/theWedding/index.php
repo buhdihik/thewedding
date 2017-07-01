@@ -26,7 +26,7 @@
                            </div>
                 <div class="col-md-2"></div>
               </div>
-         <div class="row pink">
+         <div class="row pink" id="third">
          <div class="cakes container-fluid">
              <h2 class="text-center">Cakes of our Lives</h2>
              

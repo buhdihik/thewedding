@@ -54,7 +54,7 @@
           <ul class="nav navbar-nav navbar-right ">
             <li class="active "><a href="#first">Home</a></li>
             <li><a href="#second">About</a></li>
-            <li><a >Tour</a></li>
+            <li><a href="#third" >Cakes</a></li>
             <li><a>Gallery</a></li>
             <li><a >Contact</a></li>
           </ul>
