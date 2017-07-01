@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.index {
+    background: transparent url("../images/wedding.jpeg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 995px;
+}
+
+ul li a,h3 {
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+}
+
+.theWedding {
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+}
+
+ul li a {
+    font-size: 18px;
+}
+
+.i-padding-top h1 ,.ourStory{
+    font-size: 150px;
+    font-family: 'Tangerine', cursive;
+    color: #fff;
+}
+
+.july {
+    font-size: 50px;
+    font-family: 'Tangerine', cursive;
+    color: #fff;
+}
+
+
+h3 {
+    margin-top: 0px !important;
+    font-size: 23px;
+}
+
+.i-padding-top {
+    margin-top: 280px;
+    
+}
+
+.ampersand img {
+    width: 105px;
+}
+
+.ourStory img {
+    width: 300px;
+}
+
+.ourStory h1{
+    color: #000;
+}
+
+.container p {
+    font-family: 'Tangerine', cursive;
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+}
+
+.heart {
+   width: 75px;   
+}
+
+.i-margin-top-m{
+    margin-top: 50px;
+}
+
+.gFonts p{
+    font-size: 55px;
+}
+
+h4 {
+    font-size: 150px;
+    font-family: 'Tangerine', cursive;
+    color: #fff;
+}
+

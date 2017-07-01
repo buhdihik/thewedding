@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>the Wedding</title>
+
+    <!-- Bootstrap core CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+   <link rel="stylesheet" type="text/css" href="css/main.css"/>
+   <!--Google Fonts -->
+   <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <script>
+	  $(document).ready(function(){
+		$('a[href^="#"]').on('click',function(e){
+		  e.preventDefault();
+		  
+		  var target = this.hash;
+		  var $target = $(target);
+		  
+		  //Scroll and show hash
+		  
+		 $('html,bod').animate({
+			  'scrollTop': $target.offset().top
+			}, 1000, 'swing' , function() {
+			  window.location.hash = target;
+		 });
+		  
+		  //Scroll and don't show hash
+		 // $('html,body').animate({
+			//  'scrollTop': $target.offset().top
+		  // }, 1000, 'swing');
+		  });
+		});
+   </script>
+   
+   
+   
+  
+  
+  </head>
+
+  <body>
+     <div class="container-fluid index" id="first">
+          <nav class="navbar navbar-inverse navbar-fixed-top ">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><h3>the Wedding</h3></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse ">
+          <ul class="nav navbar-nav navbar-right ">
+            <li class="active "><a href="#first">Home</a></li>
+            <li><a href="#second">About</a></li>
+            <li><a >Tour</a></li>
+            <li><a>Gallery</a></li>
+            <li><a >Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+          <!--center content-->
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                  
+                        <div class="panel i-padding-top" style="background-color: rgba(255, 255, 255, 0.1)">
+                          <h1 class="text-center ampersand">Nes <img src="images/ampersand.png" >Donna</h1>
+                          
+                        </div>
+               <h4 class="text-center">--July twenty second, two thousand eleven--</h4>          
+            </div>
+           
+            <div class="col-md-2"></div>
+            
+     </div>
+     
+     <!--container two-->
+     <div class="container-fluid" >
+      <div class="row ourStory" id="second">
+        <h1 class="text-center ourStory">Our Story</h1>
+		
+		   <img src="images/heart.png" class="img-responsive center-block heart">
+		
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+           <img src="images/ourStory.png" class="center-block img-responsive i-margin-top-m" >
+        </div>
+		<br/>
+		   <div class="container" style="margin-top:400px;">
+		         <p>
+				    Lorem ipsum dolor sit amet, ius soleat putent commodo ei, harum clita equidem in sit.
+					His ut tation eligendi efficiendi, id vitae putent qualisque vim.
+					Usu ne evertitur voluptatum. His fastidii consectetuer at, purto scripta ceteros ut mea.
+					In eam vidisse mentitum, aeterno admodum epicuri cu mel.</p>
+
+					 <p>Eius illum facilisis ut eum, no vero efficiendi eum.
+					Et quo eruditi honestatis, elitr dicam munere eam ex, est ea prima voluptaria.
+					Has et eius noster impedit, usu id enim patrioque. Vitae verterem cu vis, animal scriptorem mel et.
+					Quis dicam quaerendum mea ei, ne eruditi sadipscing temporibus vix.
+				 </p>
+		   </div>
+        <div class="col-md-2"></div>
+      </div>
+      
+         
+     </div>
+  
+     
+   
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  
+    <script src="js/bootstrap.min.js"></script>
+  
+  </body>
+</html>
