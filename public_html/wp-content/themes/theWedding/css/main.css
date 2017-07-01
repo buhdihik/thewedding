@@ -93,12 +93,33 @@ h4 {
     margin-right: 5%;
 }
 
-.cakeBox:first-child {
-    margin-left: 7%;
-}
 
 .cakeBox:last-child {
     margin-right: 0%;
+}
+
+.cakeBox p {
+    font-size: 15px;
+    font-family: 'Tangerine', cursive;
+}
+
+.pink {
+    height: 60%;
+    background-color: #f4d4d4;
+}
+
+.cakes h2 {
+    font-size: 150px;
+    font-family: 'Tangerine', cursive;
+    margin-right: 0%;
+}
+
+.cakeBox p {
+    font-size: 35px;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    color: #222;
+
 }
 
 .pink {
@@ -113,6 +134,7 @@ h4 {
     border-bottom: 2px dotted gray;
     margin-top: 5%;
     margin-bottom: 5%;
+    border-width: 50px;
 }
 
 .bottomBorder {

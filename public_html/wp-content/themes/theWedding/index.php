@@ -30,23 +30,30 @@
          <div class="cakes container-fluid">
              <h2 class="text-center">Cakes of our Lives</h2>
              
-             <div class="cakeBox">
+             <div class="cakeBox" style="margin-left:7%">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake11.png" class="img-responsive">
+                 <p>Bekecake</p>
              </div>
              <div class="cakeBox">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake22.png" class="img-responsive">
+                 <p>Manggamits</p>
              </div>
              <div class="cakeBox">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake33.png" class="img-responsive">
+                 <p>Choc Chocola</p>
              </div>
              <div class="cakeBox">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake44.png" class="img-responsive">
+                 <p>Cranbelicious</p>
+                 
              </div>
              <div class="cakeBox">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake55.png" class="img-responsive">
+                 <p>Bonggacious</p>
              </div>
              <div class="cakeBox">
                  <img src="http://ishedorene.com/wp-content/themes/theWedding/images/cake66.png" class="img-responsive">
+                 <p>StrawberryChurva</p>
              </div>
          </div><!--cakes-->
          </div><!--row-->
