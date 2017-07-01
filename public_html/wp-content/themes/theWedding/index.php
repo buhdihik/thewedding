@@ -11,7 +11,7 @@
            <img src="http://ishedorene.com/wp-content/themes/theWedding/images/ourStory.png" class="center-block img-responsive i-margin-top-m" >
         </div>
 		<br/>
-		   <div class="container" style="margin-top:400px;">
+		   <div class="container" style="margin-top:15%;">
 		         <p>
 				    Lorem ipsum dolor sit amet, ius soleat putent commodo ei, harum clita equidem in sit.
 					His ut tation eligendi efficiendi, id vitae putent qualisque vim.
